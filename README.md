@@ -1,2 +1,2 @@
 # OOD-Evaluation
-Official implementation of "Large Language Models Meet Open-World Intent Discovery and Recognition: An Evaluation of ChatGPT", EMNLP23 main conference paper.
+Official implementation of "Large Language Models Meet Open-World Intent Discovery and Recognition: An Evaluation of ChatGPT", EMNLP23 main conference paper. The code will be available soon....
